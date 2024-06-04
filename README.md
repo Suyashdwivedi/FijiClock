@@ -1,0 +1,1 @@
+This JavaScript code helps display the local time of any country (the provided code shows the local time in Fiji if you are accessing it from India) on the top right side of your Wiki. You can change the UTC offset and country name according to your preference.
