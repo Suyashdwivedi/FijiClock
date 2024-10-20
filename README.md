@@ -1,13 +1,13 @@
 # Fiji Live Clock Gadget for MediaWiki
 
-![Suyash Dwivedi](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Suyash_Dwivedi_01%28cropped%29.jpg/180px-Suyash_Dwivedi_01%28cropped%29.jpg)
-
 This is a MediaWiki gadget that displays the current time in Fiji (UTC+12 with support for daylight saving time) in a 12-hour format with AM/PM. The time updates automatically every second.
 
 ## Author
 
 **Suyash Dwivedi**  
 [User:Suyash.dwivedi](https://meta.wikimedia.org/wiki/User:Suyash.dwivedi)
+
+![Suyash Dwivedi](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Suyash_Dwivedi_01%28cropped%29.jpg/180px-Suyash_Dwivedi_01%28cropped%29.jpg)  
 
 ## Features
 
